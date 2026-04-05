@@ -14,4 +14,4 @@ This project is a Java-based calculator that takes user input, performs division
 This project combines user input, program logic, and exception handling into one working calculator that runs without crashing and responds properly to errors.
 
 ## Demo Video
-Demo video will be added after recording.
+[Watch the Demo](https://youtu.be/Ss6WIYxndgU)
